@@ -31,4 +31,4 @@
 
 |**Chapter**|**Title**|
 |:-:|-|
-|**CH.01**|[📚 타입스크립트 올인원](https://github.com/YDP-SPLOUNGE-CLUB/TypeScript-Study/tree/master/TS_JKS/TS_%20lecture)|
+|**-정광수- 타입스크립트 강의**|[📚 타입스크립트 올인원](https://github.com/YDP-SPLOUNGE-CLUB/TypeScript-Study/tree/master/TS_JKS/TS_%20lecture)|
